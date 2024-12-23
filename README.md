@@ -7,6 +7,8 @@
 
 This module allows you to set macros to run when a particular Hook is sent by Foundry VTT.
 
+When writing script macros, the hook arguments can be accessed via `scope.hookArgs` (or simply `hookArgs`), and user-defined arguments can be accessed by `scope.userArgs` (or simply `userArgs`).
+
 ## Installation
 
 To install, import this [Manifest](https://raw.githubusercontent.com/ardittristan/HookMacros/master/module.json) into your module browser.
