@@ -13,7 +13,7 @@ NOTE: This fork is created to fix handling of arguments in the original repo. A 
 
 ## Installation
 
-To install, import this [Manifest](https://raw.githubusercontent.com/ardittristan/HookMacros/master/module.json) into your module browser.
+To install, import this [Manifest](https://raw.githubusercontent.com/spikeyarmaku/HookMacros/master/module.json) into your module browser.
 
 ### Things to watch out for
 
