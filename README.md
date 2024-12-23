@@ -9,6 +9,8 @@ This module allows you to set macros to run when a particular Hook is sent by Fo
 
 When writing script macros, the hook arguments can be accessed via `scope.hookArgs` (or simply `hookArgs`), and user-defined arguments can be accessed by `scope.userArgs` (or simply `userArgs`).
 
+NOTE: This fork is created to fix handling of arguments in the original repo. A pull request is created on the original repo. In the meantime this repo is used in some personal campaigns, and is not meant to be used by a wider audience.
+
 ## Installation
 
 To install, import this [Manifest](https://raw.githubusercontent.com/ardittristan/HookMacros/master/module.json) into your module browser.
