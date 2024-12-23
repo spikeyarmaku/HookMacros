@@ -1,7 +1,7 @@
 {
   "title": "Hook Macros",
   "description": "Launch macros from hooks",
-  "url": "https://github.com/ardittristan/HookMacros/tree/master",
+  "url": "https://github.com/spikeyarmaku/HookMacros/tree/master",
   "version": "2.1.1",
   "esmodules": [
     "hookmacro.js"
@@ -18,8 +18,8 @@
     }
   ],
   "socket": true,
-  "manifest": "https://raw.githubusercontent.com/ardittristan/HookMacros/master/module.json",
-  "download": "https://github.com/ardittristan/HookMacros/releases/latest/download/hook-macros.zip",
+  "manifest": "https://raw.githubusercontent.com/spikeyarmaku/HookMacros/master/module.json",
+  "download": "https://github.com/spikeyarmaku/HookMacros/releases/latest/download/hook-macros.zip",
   "id": "launchmacro",
   "compatibility": {
     "minimum": "0.8.0",
